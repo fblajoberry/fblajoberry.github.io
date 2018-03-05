@@ -1622,7 +1622,7 @@
 	}
 
 	body {
-		background: #312450;
+		background: #FFFFFF;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2482,7 +2482,7 @@
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #b74e91;
+			color: #E6DBFF;
 			content: '\f00c';
 		}
 
