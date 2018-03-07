@@ -3038,7 +3038,11 @@
 				-webkit-transition: opacity 1s ease;
 				-ms-transition: opacity 1s ease;
 				transition: opacity 1s ease;
+<<<<<<< HEAD
 				background: rgba(232, 232, 232, 0.9);
+=======
+				background: rgba(232, 232, 232, 0.7);
+>>>>>>> 76250a3f4dc48378bf8539406bd0b31a3a652ea5
 				content: '';
 				display: block;
 				height: 100%;
