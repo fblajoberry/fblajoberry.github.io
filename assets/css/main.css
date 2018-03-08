@@ -3019,7 +3019,7 @@
 			min-height: 0;
 		}
 
-		.spotlights > section > .image {
+		.s > section > .image {
 			background-position: center center;
 			background-size: cover;
 			border-radius: 0;
