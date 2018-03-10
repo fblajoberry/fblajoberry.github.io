@@ -1721,10 +1721,10 @@
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #BDE0FC, #DDD2F2);
-				background-image: -webkit-linear-gradient(to right, #BDE0FC, #DDD2F2);
-				background-image: -ms-linear-gradient(to right, #BDE0FC, #DDD2F2);
-				background-image: linear-gradient(to right, #BDE0FC, #DDD2F2);
+				background-image: -moz-linear-gradient(to right, #BDE0FC, #BDE0FC);
+				background-image: -webkit-linear-gradient(to right, #BDE0FC, #BDE0FC);
+				background-image: -ms-linear-gradient(to right, #BDE0FC, #BDE0FC);
+				background-image: linear-gradient(to right, #BDE0FC, #BDE0FC);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -2579,7 +2579,7 @@
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #BDE0FC;
+					color: #D7B8F3;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3269,7 +3269,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #DDD2F2;
+			background-color: #D7B8F3;
 		}
 
 		.wrapper.style3-alt {
@@ -3775,10 +3775,10 @@
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #BDE0FC, #DDD2F2);
-				background-image: -webkit-linear-gradient(to right, #BDE0FC, #DDD2F2);
-				background-image: -ms-linear-gradient(to right, #BDE0FC, #DDD2F2);
-				background-image: linear-gradient(to right, #BDE0FC, #DDD2F2);
+				background-image: -moz-linear-gradient(to right, #BDE0FC, #BDE0FC);
+				background-image: -webkit-linear-gradient(to right, #BDE0FC, #BDE0FC);
+				background-image: -ms-linear-gradient(to right, #BDE0FC, #BDE0FC);
+				background-image: linear-gradient(to right, #BDE0FC, #BDE0FC);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3867,7 +3867,7 @@
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #DDD2F2;
+							background-color: #BDE0FC;
 						}
 
 		}
