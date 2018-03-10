@@ -1721,10 +1721,10 @@
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #FFC0A0, #FFD6C1);
-				background-image: -webkit-linear-gradient(to right, #FFC0A0, #FFD6C1);
-				background-image: -ms-linear-gradient(to right, #FFC0A0, #FFD6C1);
-				background-image: linear-gradient(to right, #FFC0A0, #FFD6C1);
+				background-image: -moz-linear-gradient(to right, #BDE0FC, #DDD2F2);
+				background-image: -webkit-linear-gradient(to right, #BDE0FC, #DDD2F2);
+				background-image: -ms-linear-gradient(to right, #BDE0FC, #DDD2F2);
+				background-image: linear-gradient(to right, #BDE0FC, #DDD2F2);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -2563,7 +2563,7 @@
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #FFC0A0;
+					color: #BDE0FC;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
@@ -2579,7 +2579,7 @@
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #FFD6C1;
+					color: #DDD2F2;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3253,7 +3253,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #FFC0A0;
+			background-color: #BDE0FC;
 		}
 
 		.wrapper.style1-alt {
@@ -3261,7 +3261,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #FFE0B5;
+			background-color: #D7B8F3;
 		}
 
 		.wrapper.style2-alt {
@@ -3269,7 +3269,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #FFD6C1;
+			background-color: #DDD2F2;
 		}
 
 		.wrapper.style3-alt {
@@ -3380,7 +3380,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #FFC0A0;
+		background-color: #BDE0FC;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3775,10 +3775,10 @@
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #FFC0A0, #FFD6C1);
-				background-image: -webkit-linear-gradient(to right, #FFC0A0, #FFD6C1);
-				background-image: -ms-linear-gradient(to right, #FFC0A0, #FFD6C1);
-				background-image: linear-gradient(to right, #FFC0A0, #FFD6C1);
+				background-image: -moz-linear-gradient(to right, #BDE0FC, #DDD2F2);
+				background-image: -webkit-linear-gradient(to right, #BDE0FC, #DDD2F2);
+				background-image: -ms-linear-gradient(to right, #BDE0FC, #DDD2F2);
+				background-image: linear-gradient(to right, #BDE0FC, #DDD2F2);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3867,7 +3867,7 @@
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #FFD6C1;
+							background-color: #DDD2F2;
 						}
 
 		}
