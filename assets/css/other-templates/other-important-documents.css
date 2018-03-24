@@ -1623,7 +1623,7 @@
 	}
 
 	body {
-		background: #242943;
+		background: #FFFFFF;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1684,11 +1684,11 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #9bf1ff !important;
+			color: #BD82ED !important;
 		}
 
 		a:active {
-			color: #53e3fb !important;
+			color: #BD82ED !important;
 		}
 
 	strong, b {
@@ -1981,8 +1981,8 @@
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #9bf1ff;
-			box-shadow: 0 0 0 2px #9bf1ff;
+			border-color: #BD82ED;
+			box-shadow: 0 0 0 2px #BD82ED;
 		}
 
 	.select-wrapper {
@@ -2086,14 +2086,14 @@
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
-			border-color: #9bf1ff;
+			border-color: #BD82ED;
 			content: '\f00c';
-			color: #242943;
+			color: #FFFFFF;
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			box-shadow: 0 0 0 2px #9bf1ff;
+			box-shadow: 0 0 0 2px #BD82ED;
 		}
 
 	input[type="radio"] + label:before {
@@ -2169,7 +2169,7 @@
 		.icon.alt:before {
 			background-color: #ffffff;
 			border-radius: 100%;
-			color: #242943;
+			color: #FFFFFF;
 			display: inline-block;
 			height: 2em;
 			line-height: 2em;
@@ -2406,16 +2406,16 @@
 
 					ul.pagination li > .page.active {
 						background-color: #ffffff;
-						color: #242943;
+						color: #FFFFFF;
 					}
 
 						ul.pagination li > .page.active:hover {
-							background-color: #9bf1ff;
-							color: #242943 !important;
+							background-color: #BD82ED;
+							color: #FFFFFF !important;
 						}
 
 						ul.pagination li > .page.active:active {
-							background-color: #53e3fb;
+							background-color: #BD82ED;
 						}
 
 				ul.pagination li:first-child {
@@ -3268,7 +3268,7 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			background-color: #242943;
+			background-color: #FFFFFF;
 			content: '';
 			display: block;
 			height: 100%;
@@ -3778,7 +3778,7 @@
 			}
 
 			#menu .close:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='20px' height='20px' viewBox='0 0 20 20' zoomAndPan='disable'%3E%3Cstyle%3Eline %7B stroke: %239bf1ff%3B stroke-width: 2%3B %7D%3C/style%3E%3Cline x1='0' y1='0' x2='20' y2='20' /%3E%3Cline x1='20' y1='0' x2='0' y2='20' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='20px' height='20px' viewBox='0 0 20 20' zoomAndPan='disable'%3E%3Cstyle%3Eline %7B stroke: %23BD82ED%3B stroke-width: 2%3B %7D%3C/style%3E%3Cline x1='0' y1='0' x2='20' y2='20' /%3E%3Cline x1='20' y1='0' x2='0' y2='20' /%3E%3C/svg%3E");
 				opacity: 0;
 			}
 
